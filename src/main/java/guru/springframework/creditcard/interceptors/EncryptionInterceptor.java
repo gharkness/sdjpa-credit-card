@@ -14,7 +14,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
-@Component
+//@Component
 @AllArgsConstructor
 public class EncryptionInterceptor extends EmptyInterceptor {
 
